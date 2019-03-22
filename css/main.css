@@ -1,0 +1,48 @@
+html {
+  font-family: "Noto Serif", serif;
+}
+
+header {
+  background-color: #70ad55;
+}
+
+h1 {
+  color: #fff;
+  font-family: "Noto Serif", serif;
+}
+
+h2 {
+  font-family: "Noto Serif", serif;
+}
+
+p {
+  color: #fff;
+}
+
+span {
+  color: #70ad55;
+}
+
+button {
+  background-color: #6e8c62;
+}
+
+hr {
+  border-color: #70ad55;
+}
+
+footer {
+  background-color: #70ad55;
+}
+
+fieldset {
+  border: 0;
+}
+
+[type="checkbox"] + label::before {
+  border-color: #70ad55;
+}
+
+input, select {
+  border-color: #70ad55;
+}
